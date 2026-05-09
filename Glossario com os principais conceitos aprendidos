@@ -1,0 +1,41 @@
+Conceitos Estratégicos e de Governança
+CISO (Chief Information Security Officer): Executivo responsável por definir a estratégia de segurança da informação, implementar medidas de proteção e garantir a conformidade regulatória da empresa
+.
+GRC (Governança, Risco e Conformidade): Integração da gestão de riscos de segurança em todas as decisões de negócios, garantindo que a organização siga as normas legais e proteja a confiança das partes interessadas
+.
+LGPD (Lei Geral de Proteção de Dados): Legislação brasileira que exige que as organizações adotem medidas de segurança para proteger os dados pessoais de clientes e usuários, sob pena de multas
+.
+Security by Design: Abordagem onde a segurança é integrada como consideração fundamental desde a fase inicial de desenvolvimento de qualquer produto ou serviço
+.
+Ameaças Cibernéticas
+Ameaças Persistentes Avançadas (APT): Ataques coordenados, sofisticados e persistentes que visam causar danos significativos a longo prazo
+.
+Engenharia Social: Tática que utiliza a manipulação psicológica dos usuários para obter informações sensíveis ou acesso aos sistemas
+.
+Phishing: Tentativas de golpe que utilizam e-mails ou mensagens fraudulentas para roubar credenciais ou dados pessoais
+.
+Ransomware: Tipo de malware que criptografa dados essenciais e exige o pagamento de um resgate (geralmente em criptomoedas) para liberá-los
+.
+Shadow Data: Refere-se a dados ocultos ou descentralizados em vários ambientes que aumentam os riscos de violação por não estarem sob gestão direta
+.
+Medidas e Ferramentas de Defesa
+Autenticação Multifator (MFA/2FA): Medida de segurança que exige mais de uma forma de verificação para conceder acesso a uma conta ou sistema
+.
+Criptografia: Tecnologia usada para proteger dados, tanto em segurança quanto em trânsito, garantindo que apenas pessoas autorizadas os compreendam
+.
+Firewall: Ferramenta utilizada para bloquear tráfego malicioso proveniente da internet
+.
+IDS/IPS (Sistemas de Detecção e Prevenção de Intrusão): Tecnologias que monitoram redes para detectar e bloquear atividades suspeitas ou maliciosas
+.
+Pentest (Teste de Penetração): Simulações de ataques reais realizadas regularmente para identificar e corrigir vulnerabilidades antes que sejam exploradas por infratores
+.
+Plano de Resposta a Incidentes: Conjunto de políticas e procedimentos para restaurar informações e operações rapidamente após sofrer um ataque
+.
+Fundamentos da Segurança
+Tríade CIA: Os três pilares essenciais da segurança da informação:
+Confidencialidade: Garante que a informação só seja acessada por pessoas autorizadas
+.
+Integridade: Certifique-se de que os dados não sejam alterados de forma indevida
+.
+Disponibilidade: Garante que sistemas e dados sejam acessíveis sempre que necessário
+.
